@@ -1,5 +1,5 @@
 # RxApp
 Aplikacja na programowanie reaktywne
 
-Aplikacja z wymaganymi plikami dll znajduje sie w archiwum Releaze.zip
-Źródla znajduja sie w katalogu RxApp
+Aplikacja z wymaganymi plikami dll znajduje się w archiwum Releaze.zip.
+Źródła znajdują się w katalogu RxApp.
